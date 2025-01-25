@@ -2,6 +2,7 @@
   background-color: var(--bg-main-grey);
   padding: 30px 30px 50px;
   text-align: center;
+  color: var(--font-color-grey);
 }
 
 .about-title {
@@ -9,13 +10,11 @@
   font-size: 48px;
   font-weight: 400;
   text-transform: uppercase;
-  color: var(--font-color-grey);
 }
 
 .about-description {
   font-size: 28px;
   font-weight: 300;
-  color: var(--font-color-grey);
   text-align: justify;
   text-indent: 36px;
 }
